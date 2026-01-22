@@ -1,2 +1,3 @@
-# Java-COMPLETO
-Java COMPLETO Programação Orientada a Objetos + Projetos
+# Java COMPLETO - Estudos
+
+Repositório de estudos em Java baseado no curso **Java COMPLETO** do Nelio Alves.
