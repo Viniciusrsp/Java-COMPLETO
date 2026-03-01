@@ -12,7 +12,7 @@ public class Ex02 {
         double raio;
 
         raio = sc.nextDouble();
-        System.out.printf("A=%.4f\n", pi * Math.pow(raio, 2));
+        System.out.printf("A=%.4f\n", pi * Math.pow(raio, 2.0)); // O "Math.pow(raio, 2)" está fazendo o raio ser elevado a 2
 
         sc.close();
     }
